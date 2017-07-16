@@ -7,3 +7,16 @@ body, html {
   line-height: 1.8em;
   color: #666;
 }
+
+.pimg1, .pimg2, .pimg3 {
+  position: relative;
+  opacity: .7;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*
+    fixed = parallax
+    scroll = normal
+  */
+  background-attachment: fixed;
+}
