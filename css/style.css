@@ -45,3 +45,8 @@ body, html {
   background-color: #F4F4F4;
   color: #666;
 }
+
+.section-dark {
+  background-color: #282E34;
+  color: #DDD;
+}
